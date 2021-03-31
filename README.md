@@ -1,8 +1,8 @@
 # SCC-DFS
 Strongly Connected Components by DFS
 
-This can be reads from a .txt file
-the format of the .txt file should be as follows
+This can be reads from a .txt file<br/>
+the format of the .txt file should be as follows<br/>
 VERTEX# VERTEX# <br/>
 VERTEX# VERTEX#<br/>
 etc.<br/>
